@@ -1,6 +1,7 @@
 package Airplans;
 
 public class AirplaneFifth {
+    //змінні оголошені з модифікатором final
     final double length;
     final double width;
     final String name;
