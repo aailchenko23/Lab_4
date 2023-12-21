@@ -7,7 +7,7 @@ public class AirplaneSixth extends AirplaneThree {
     }
     void methodSixth() {
         getModel();  // Виклик методу з класу AirplaneThree
-        System.out.println("method sixth does something");
+        System.out.println("method sixth");
 
     }
 
