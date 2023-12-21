@@ -4,7 +4,7 @@ public class AirplaneFifth {
     final double length;
     final double width;
     final String name;
-
+//генерований конструктор
     public AirplaneFifth(double length, double width, String name) {
         this.length = length;
         this.width = width;
